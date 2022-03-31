@@ -1,0 +1,11 @@
+.container {
+	width: 100%;
+	margin-bottom: 50px;
+	display: flex;
+	justify-content: center;
+}
+
+.formControl {
+	max-width: 500px !important;
+	width: 100%;
+}
