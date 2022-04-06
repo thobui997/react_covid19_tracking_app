@@ -15,14 +15,14 @@ A application to tracking covid-19 use reactjs
 
 #### Get all data of covid-19 worldwide
 
-```http
+```https
   GET https://covid19.mathdro.id/api
 ```
 
 
 #### Get all data of covid-19 by country
 
-```http
+```httpa
   GET https://covid19.mathdro.id/api/countries/${country}
 ```
 
@@ -33,13 +33,13 @@ A application to tracking covid-19 use reactjs
 
 #### Get daily data of covid-19
 
-```http
+```https
   GET https://api.covidtracking.com/v1/us/daily.json
 ```
 
 
 #### Get list of countries with covid-19
 
-```http
+```https
   GET https://covid19.mathdro.id/api/countries
 ```
